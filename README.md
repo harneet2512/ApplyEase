@@ -1,4 +1,4 @@
-###ApplyEase - Job Application Automation Tool
+#ApplyEase - Job Application Automation Tool
 ApplyEase is a web-based automation tool designed to streamline the job application process for international students. By leveraging automation, NLP, and cloud-based technologies, ApplyEase reduces repetitive tasks and manual tracking, empowering users to focus on what truly matters—securing their dream job.
 
 Features
